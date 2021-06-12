@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:khkim87/movie-app.git/static/css/main.e53c7708.chunk.css",
+    "main.js": "/git@github.com:khkim87/movie-app.git/static/js/main.28145b4d.chunk.js",
+    "main.js.map": "/git@github.com:khkim87/movie-app.git/static/js/main.28145b4d.chunk.js.map",
+    "runtime-main.js": "/git@github.com:khkim87/movie-app.git/static/js/runtime-main.1fddd638.js",
+    "runtime-main.js.map": "/git@github.com:khkim87/movie-app.git/static/js/runtime-main.1fddd638.js.map",
+    "static/js/2.032acaf4.chunk.js": "/git@github.com:khkim87/movie-app.git/static/js/2.032acaf4.chunk.js",
+    "static/js/2.032acaf4.chunk.js.map": "/git@github.com:khkim87/movie-app.git/static/js/2.032acaf4.chunk.js.map",
+    "static/js/3.9e2ab874.chunk.js": "/git@github.com:khkim87/movie-app.git/static/js/3.9e2ab874.chunk.js",
+    "static/js/3.9e2ab874.chunk.js.map": "/git@github.com:khkim87/movie-app.git/static/js/3.9e2ab874.chunk.js.map",
+    "index.html": "/git@github.com:khkim87/movie-app.git/index.html",
+    "static/css/main.e53c7708.chunk.css.map": "/git@github.com:khkim87/movie-app.git/static/css/main.e53c7708.chunk.css.map",
+    "static/js/2.032acaf4.chunk.js.LICENSE.txt": "/git@github.com:khkim87/movie-app.git/static/js/2.032acaf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fddd638.js",
+    "static/js/2.032acaf4.chunk.js",
+    "static/css/main.e53c7708.chunk.css",
+    "static/js/main.28145b4d.chunk.js"
+  ]
+}
