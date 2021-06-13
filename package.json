@@ -1,6 +1,6 @@
 {
   "name": "movie-app",
-  "homepage": "git@github.com:khkim87/movie-app.git",
+  "homepage": "https://khkim87.github.io/movie-app",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
